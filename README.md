@@ -8,13 +8,17 @@
 `Swenska Dark` - dark theme for Notepad4. Now in rebuild.
 
 For use `Swenska Light` in Notepad4:
-- install fonts from `fonts` folder, if you wants.
-- copy Notepad4.ini to Notepad4 folder.
-- restart Notepad4.
+- install fonts from `fonts` folder.
+- run Notepad4.exe 
+- select in menu - Scheme - Style Theme - Default.
+- select in menu - Scheme - customize Schemes.
+- import Swenska Light.ini from "themes" folder.
 
 For use `Swenska Dark` in Notepad4:
-- install fonts from `fonts` folder, if you wants.
-- copy Notepad4 DarkTheme.ini to Notepad4 folder.
-- restart Notepad4.
+- install fonts from `fonts` folder.
+- run Notepad4.exe 
+- select in menu - Scheme - Style Theme - Dark.
+- select in menu - Scheme - customize Schemes.
+- import Swenska Dark.ini from "themes" folder. `!So far, the topic has been compiled only for Web Source Code & Text files. The full version is in development.`
 
 `Or just download folder Notepad4 with pre-installed themes and use it.`
