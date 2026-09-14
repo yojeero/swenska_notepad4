@@ -1,6 +1,6 @@
-<img src="img/img.png" width="830"/>
+<img src="img/img.png" width="100%" max-width="800px">
 
-#### Swenska Themes for Notepad4.
+## Swenska Themes for Notepad4.
 
 [Notepad4](https://github.com/zufuliu/notepad4) - is a light-weight text editor for Windows with syntax highlighting, code folding, auto-completion and rewritten in modern C++.
 
